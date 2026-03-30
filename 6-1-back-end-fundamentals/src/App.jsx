@@ -54,6 +54,7 @@ LAB SETUP INSTRUCTIONS
 IMPORTANT NOTE
 ===================================================================
 
+
 In this lab, you are not building a full application with forms,
 CRUD operations, or a database.
 
